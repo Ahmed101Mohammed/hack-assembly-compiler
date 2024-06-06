@@ -23,3 +23,6 @@ You can follow the following steps to compile your assembly code:
 > 1. Just so you know – the program will ask you to input the name of your file without the extension, follow the instructions.
 > 2. Finally, you will get the results with a separate file ending with the **hack** extension.
 
+## License:
+There is no famous specific license, but I give you all the ability to use this project for good reasons, and I will be thanked for sharing my GitHub account as a creator for this basic compiler.
+Thanks.
